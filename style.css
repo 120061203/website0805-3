@@ -1,0 +1,17 @@
+div{
+    padding: 40px;
+    border:6px solid #f00;
+    font-size: 24px;
+}
+/* .b{
+    position: relative;
+} */
+.c{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    border-color: blue;
+}
+/* body{
+    position: relative;
+} */
